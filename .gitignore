@@ -542,5 +542,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+backend/temp_storage/
 # End of https://www.toptal.com/developers/gitignore/api/node,nextjs,python,virtualenv,windows,macos,visualstudiocode,jetbrains
